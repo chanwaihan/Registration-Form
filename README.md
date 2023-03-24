@@ -1,5 +1,5 @@
 # Registration-Form
-Learning HTML Forms by building a Registration Form in <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form">freeCodeCamp<a>.<br>
+Learning HTML Forms by building a Registration Form in <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form">freeCodeCamp</a>.<br>
 Part of the Responsive Web Design Certification.
 
 # Screenshots
