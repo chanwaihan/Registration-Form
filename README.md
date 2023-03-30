@@ -4,6 +4,6 @@ Part of the Responsive Web Design Certification.
 
 # Screenshots
 <figure>
-  <img src="https://raw.githubusercontent.com/chanwaihan/Registration-Form/main/registration-form-preview.jpg" title="Registration Form">
+  <img src="https://raw.githubusercontent.com/chanwaihan/Registration-Form/main/registration-form-preview.jpg" alt="Registration Form Preview" title="Registration Form">
   <figcaption>Figure 1: Registration Form Preview</figcaption>
 </figure>
